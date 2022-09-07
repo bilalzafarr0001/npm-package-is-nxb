@@ -1,5 +1,5 @@
-function isWds(string) {
-  return string === "WDS";
+function isNxb(string) {
+  return string === "NXB";
 }
 
-module.exports = isWds;
+module.exports = isNxb;
