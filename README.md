@@ -1,1 +1,1 @@
-### npm-packag-is-wds
+### npm-package-is-wds
